@@ -1,8 +1,3 @@
-Perfeito! A versão obrigatória com threads e mutexes já cobre toda a essência de concorrência e sincronização em C.
-
-Aqui está o `README.md` limpo e ajustado apenas para a parte obrigatória:
-
-```markdown
 # Philosophers 🍝🤔
 
 ## 📌 Sobre o Projeto
